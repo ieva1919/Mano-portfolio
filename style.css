@@ -1,0 +1,338 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+.jumbotron {
+background-image:url("img/corinne-kutz-211251.jpg");
+height: 800px;
+background-size: cover;
+background-position: top center;
+}
+
+p {
+  line-height: 1.8;
+}
+
+.title-jombotron {
+  float: right;
+  border: 1px solid black;
+  border-radius: 5px;
+  text-align: center;
+  background: #E4E5E9;
+}
+
+.title-jombotron {
+  background: #EFEFEF;
+  position: relative;
+}
+
+.title-jombotron h2 {
+  padding: 8px;
+  margin: 20px;
+}
+
+.title-jombotron h4 {
+  position:absolute;
+  bottom: -20px;
+  width: 100%;
+}
+
+.title-jombotron span {
+  background: #EFEFEF;
+  padding: 0 8px;
+  border-radius: 5px;
+}
+
+.menu .col-md-8 li {
+  display: inline;
+}
+
+.container li {
+  font-size: 16px;
+  padding: 8px;
+}
+
+.container ul {
+  padding: 8px;
+}
+
+.name {
+  font-size: 16px;
+  border-radius: 5px;
+  padding: 9px;
+  background-color: #939E83;
+  color: white;
+  text-align: center;
+}
+
+.box-header {
+  border: 1px solid black;
+  border-radius: 5px;
+  text-align: center;
+  width: 340px;
+  margin: 120px auto;
+  position: relative;
+}
+
+.box-footer {
+  border: 1px solid white;
+  border-radius: 5px;
+  text-align: center;
+  width: 340px;
+  margin: 120px auto;
+  position: relative;
+}
+
+.box-header h4 {
+  position:absolute;
+  top: -20px;
+  width: 100%;
+}
+
+.box-header span {
+  background: white;
+  padding: 0 8px;
+  border-radius: 5px;
+}
+
+.box-header h2 {
+  margin: 20px 0;
+}
+
+.box-footer h2 {
+  margin: 20px 0;
+  color: white;
+}
+
+.personal-details {
+  margin: 50px;
+}
+
+.personal-details img {
+  width: 100%;
+  margin: 20px 5px;
+}
+
+.details li {
+   list-style: none;
+   display: block;
+   padding: 20px 8px;
+   border-bottom: 1px solid #939E83;
+}
+
+.virsus {
+  margin-top: 40px;
+}
+
+.work p {
+  padding: 10px 0;
+}
+
+.work li {
+   list-style: none;
+   display: block;
+}
+
+.work h4 {
+  padding: 0 15px;
+  font-weight: bold;
+}
+
+.work h2 {
+  font-weight: bold;
+}
+
+.border {
+  border-bottom: 1px solid #939E83;
+  margin: 50px 20px;
+}
+
+.education img {
+  width: 100px;
+}
+
+.border h4 {
+  padding-top: 20px; 
+}
+
+.skill li {
+  display: block;
+  font-size: 25px;
+}
+
+.skill svg {
+  padding: 5px;
+}
+
+.skill {
+  text-align: center;
+}
+
+.KNOWLEDGE p {
+  color: white;
+  background: #333;
+  padding: 5px;
+  width: 120px;
+  text-align: center;
+  border: 3px solid #939E83;
+  margin: 18px 0 0 0;
+}
+
+.Ranga {
+  color: #794436;
+  font-weight: bold;
+  font-size: 35px;
+  font-family: ranga;
+  text-decoration: underline;
+  border-left: 5px solid #EACE79;
+}
+
+.Asar {
+  color: #3F424B;
+  font-size: 50px;
+  text-transform: uppercase;
+  font-family: asar;
+  text-shadow: 10px 10px #FAF829;
+}
+
+.Open-sans {
+  color: #B2D1C9;
+ font-size: 55px;
+ font-family: open sans;
+ font-style: italic;
+ text-decoration: underline;
+}
+
+.Lato {
+  color: #513D3E;
+  font-size: 40px;
+  font-family: lato;
+  font-variant: small-caps;
+}
+
+.Oswald {
+  color: #A69786;
+  font-size: 80px;
+  font-family: oswald;
+  text-decoration: overline;
+}
+
+.Montsrrat {
+  color: black;
+  font-size: 59px;
+  font-family: montsrrat;
+  font-style: italic;
+}
+
+.Lora {
+  color: #EACE79;
+  font-size: 95px;
+  font-family: lora;
+  text-shadow: 15px 15px #513D3E;
+}
+
+.Eagle-Lake {
+  color: #FAF829;
+  font-size: 55px;
+  font-family: Eagle Lake;
+  letter-spacing: 3px;
+  border:3px #939E83;
+  border-style: dotted dashed solid double;
+}
+
+.Anton {
+  color: #CD8C96;
+  font-size: 75px;
+  font-family: Anton;
+  letter-spacing: 4px;
+  word-spacing: 10px;
+  border-right: 5px solid #513D3E;
+  text-shadow: 2px 2px black;
+}
+
+.PORTFOLIO {
+  margin: 30px;
+}
+
+.PORTFOLIO a {
+  font-size: 20px;
+}
+
+.PORTFOLIO img {
+  width: 100%;
+}
+
+.footer {
+  background-image:url("img/edwin-andrade-158050.jpg"); 
+  height: 1000px;
+  background-size: cover;
+  background-position: top center;
+  padding-top: 40px;
+  color: white;
+}
+
+.footer li {
+  margin: 10px;
+}
+
+.footer h4 {
+  padding: 15px;
+  font-size: 16px;
+}
+
+.form-group input, .form-group textarea {
+  background: none;
+  color: white;
+  border: none;
+  border-bottom: 1px solid white;
+  border-radius: 0;
+}
+
+.form-group button {
+  background-color: #BCAFA7;
+}
+
+.social i {
+  font-size: 40px;
+  color: white;
+}
+
+.HOBBIES span {
+  margin: 15px;
+}
+
+.color-darker {
+  background: #f6f6f6;
+}
+
+.color-darker .box-header h4 span {
+  background: #f6f6f6;
+}
+
+.menu a {
+  color: #333;
+}
+
+.affix {
+  top: 0px;
+  width: 100%;
+  background: white;
+  z-index: 1;
+}
+
+.affix-top .container, .affix .container {
+  padding-top: 10px;
+}
+
+.affix + .container {
+  padding-top: 66px;
+}
+
+.nuoroda a {
+  color: white;
+}
+
+.skillintechnologies {
+  margin-bottom: 50px;
+}
